@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="sp22RamirezMackenzieHW4" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^/Users/mack/Desktop/School/MIS33K/Ramirez_Mackenzie_HW4/Ramirez_Mackenzie_HW4/obj/Release/net5\.0/PubTmp/Out/$" />
+  </parameter>
+</parameters>
